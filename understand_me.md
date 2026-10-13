@@ -314,8 +314,6 @@ Try answering these questions in your own words before revisiting the relevant s
 14. Our model achieved 96.05% accuracy but missed 44 spam messages. What does this tell us?
 15. Why should we consider more than accuracy when evaluating a classifier?
 
-**A small challenge:** Choose five questions and try answering them without looking at the document. The goal is to explain the concepts in your own words, not memorise every definition.
-
 ## 12. Conclusion
 
 This project demonstrates a basic machine learning workflow for SMS spam detection.
