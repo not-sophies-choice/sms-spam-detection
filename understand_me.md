@@ -333,5 +333,3 @@ This document is designed to be a simple learning companion that introduces the 
 It covers the basics, but learning doesn't have to stop here. AI tools can be valuable companions for exploring concepts in greater depth, clarifying doubts, and discovering new perspectives.
 
 The goal of this document is to give readers a foundation to build on, so they can ask more meaningful questions, seek deeper explanations, and engage more confidently with AI-assisted learning.
-
-**Understand the basics. Question what you learn. Keep exploring.**
