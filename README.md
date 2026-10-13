@@ -135,3 +135,7 @@ SMS-Spam-Detection/
 This project demonstrates an introductory text-classification workflow using TF-IDF and Multinomial Naive Bayes. The evaluation highlights both the model's overall performance and the importance of examining classification errors.
 
 The implementation provides practical experience with text representation, probabilistic classification, and model evaluation.
+
+## Documentation
+
+For a beginner-friendly explanation of the concepts, methodology, evaluation metrics, and limitations used in this project, see [Understand Me](understand_me.md).
