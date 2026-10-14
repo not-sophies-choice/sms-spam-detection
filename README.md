@@ -119,7 +119,6 @@ SMS-Spam-Detection/
 * `Understand_Me.md` — Detailed conceptual explanations, mathematical formulas, and review questions.
 * `SMS_Spam_Detection.ipynb` — Notebook containing the implementation and evaluation.
 
-*Ensure these filenames match the files in your repository.*
 
 ## Limitations
 
